@@ -13,7 +13,7 @@ import numpy as np
 # In[22]:
 
 
-st.set_page_config(page_title="Book Recommendation System",)
+st.set_page_config(page_title="nushRecommends",)
 
 
 # In[23]:
