@@ -36,7 +36,7 @@ This project is built using Python and popular data science libraries. It provid
 1. Clone the repository to your local machine.
    
    ```bash
-   git clone https://github.com/pmohanta2/book-recommendation-system.git
+   git clone 
    cd book-recommendation-system
    ```
 2. Install the required Python packages listed in `requirements.txt`.
@@ -69,10 +69,6 @@ The project uses the [Book Recommendation Dataset](https://www.kaggle.com/arashn
 ## Acknowledgments
 
 This project is for educational purposes and is based on the collaborative filtering concept for book recommendations.
-
-## Author
-
-Prabin
 
 Feel free to explore and modify the code to suit your needs. Enjoy recommending and discovering new books!
 
