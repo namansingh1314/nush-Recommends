@@ -54,7 +54,7 @@ def recommend_book(book_name):
 
 
 def main():
-    st.title("Book Recommendation System")
+    st.title("nush-Recommends ")
     select_book = st.selectbox('Select book: (Recommendation will be based on this selection)', ['--Select--'] + books)
     if select_book == '--Select--':
         st.warning('Please select Book!!')
